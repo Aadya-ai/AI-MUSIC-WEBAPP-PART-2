@@ -1,0 +1,33 @@
+
+  <div class="p">
+    <label id="p1"> Wanna check out our Bollywood Songs AI-MUSIC Webapp? Click here!!</label>
+    <button onclick="AI_MUSIC();" class="btn btn-info"> AI-MUSIC Webapp P-2 </button>
+  </div>
+
+  <div class="p">
+    <label id="p2"> Hmm, Would like to give FEEDBACK? Click here!! </label>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2ckbcAI3530qHMubieY6vt2jHTcCRz3V4P5wAQAAAflcySg/viewform?embedded=true" width="640" height="403" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </div>
+
+  <div class="p">
+    <label id="p3"> Check out my Latest Projects!! </label>
+    <button onclick="Community();" class="btn btn-warning"> Community Tab </button>
+  </div>
+
+  <div class="p">
+    <label id="p5"> Thanks for Joining out!! Thanks to ytmp3 for the songs & speacial thanks to the singers!!!
+    </label>
+  </div>
+
+
+function AI_MUSIC() {
+    window.location.href = "";
+}
+
+function Community() {
+    window.location.href = "https://community.whitehatjr.com/profile/532d0987-b65e-4ce0-9a69-b33d4f299470";
+}
+
+function feedback() {
+    window.location.href = "https://community.whitehatjr.com/profile/532d0987-b65e-4ce0-9a69-b33d4f299470";
+}
