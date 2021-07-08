@@ -1,6 +1,12 @@
 song_1 = "";
 song_2 = "";
 
+leftWristX = 0;
+leftWristY = 0;
+
+rightWristX = 0;
+rightWristY = 0;
+
 function preload() {
     song_1 = loadSound("Sia - Cheap Thrills (Audio) [YTmp3.net].mp3");
     song_2 = loadSound("Justin Bieber – Despacito (Lyrics) 🎤 ft. Luis Fonsi & Daddy Yankee [Pop] [YTmp3.net].mp3")
